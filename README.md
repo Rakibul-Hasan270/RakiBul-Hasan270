@@ -1,4 +1,4 @@
-![](https://i.ibb.co.com/ns87KMMq/banner-Github.png)
+![](https://i.ibb.co.com/mCH1HFpG/MERN-Stack-Developer.png)
 
 ### Hi there 👋,  I'm Rakibul Hasan
 
