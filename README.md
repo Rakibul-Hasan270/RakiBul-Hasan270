@@ -5,7 +5,6 @@
 Building modern, responsive web apps with MongoDB, Express, React, and Node.js (MERN Stack). Passionate about clean code, scalable solutions, and seamless user experiences. Always exploring new tech to level up projects.
 
 - 🌱 I’m currently learning Next.js 
-- 📫 How to reach me: rakibx270@gmail.com 
 
 - 📫 How to reach me: rakibx270@gmail.com 
 
