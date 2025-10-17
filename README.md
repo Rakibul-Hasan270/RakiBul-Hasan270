@@ -1,4 +1,4 @@
-![](https://i.ibb.co.com/N254J92F/Chat-GPT-Image-Oct-17-2025-07-02-42-PM.png)
+![](https://i.ibb.co.com/bjJRwrhN/Chat-GPT-Image-Oct-17-2025-07-41-27-PM.png)
 
 ### Hi there 👋,  I'm Rakibul Hasan
 
