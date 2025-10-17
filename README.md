@@ -2,7 +2,7 @@
 
 ### Hi,  I'm Rakibul Hasan
 
-Building modern, responsive web apps with MongoDB, Express, React, and Node.js (MERN Stack). Passionate about clean code, scalable solutions, and seamless user experiences. Always exploring new tech to level up projects.
+Building modern, responsive web site with MongoDB, Express, React, and Node.js (MERN Stack). Passionate about clean code, scalable solutions, and seamless user experiences. Always exploring new tech to level up projects.
 
 - 🌱 I’m currently learning Next.js 
 
