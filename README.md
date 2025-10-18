@@ -10,4 +10,6 @@ Building modern, responsive web site with MongoDB, Express, React, and Node.js (
 
 - 📫 How to reach me: rakibx270@gmail.com
 
-todo: .....
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zdf)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=zdf&show_icons=true)  
