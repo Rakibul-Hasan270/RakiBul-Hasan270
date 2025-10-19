@@ -40,6 +40,15 @@ Always exploring new tech to **level up projects** and deliver impactful user ex
 
 ### 📊 **GitHub Stats**
 
+### 📫 **Contact Me**
+
+- ✉️ **Email:** [rakibx270@gmail.com](mailto:rakibx270@gmail.com)  
+- 🌐 **Portfolio:** [https://portfolio-64783.web.app](https://portfolio-64783.web.app)  
+- 💼 **LinkedIn:** [https://www.linkedin.com/in/rakibul-hasan01](https://www.linkedin.com/in/rakibul-hasan01)  
+- 🧑‍💻 **GitHub:** [https://github.com/Rakibul-Hasan270](https://github.com/Rakibul-Hasan270)
+
+---
+
 <p align="center">
   <!-- Top Languages -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rakibul-Hasan270&layout=compact&theme=tokyonight" alt="Top Languages" />
@@ -55,14 +64,6 @@ Always exploring new tech to **level up projects** and deliver impactful user ex
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rakibul-Hasan270&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
----
-
-### 📫 **Contact Me**
-
-- ✉️ **Email:** [rakibx270@gmail.com](mailto:rakibx270@gmail.com)  
-- 🌐 **Portfolio:** [https://portfolio-64783.web.app](https://portfolio-64783.web.app)  
-- 💼 **LinkedIn:** [https://www.linkedin.com/in/rakibul-hasan01](https://www.linkedin.com/in/rakibul-hasan01)  
-- 🧑‍💻 **GitHub:** [https://github.com/Rakibul-Hasan270](https://github.com/Rakibul-Hasan270)
 
 ---
 
