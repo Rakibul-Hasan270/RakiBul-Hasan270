@@ -12,3 +12,10 @@ Building modern, responsive web site with MongoDB, Express, React, and Node.js (
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zdf)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=zdf&show_icons=true)  
+
+
+<h3 align="center">A passionate frontend developer from India</h3>
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
