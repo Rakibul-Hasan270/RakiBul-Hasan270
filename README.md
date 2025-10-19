@@ -1,13 +1,3 @@
-
-
-
-
-
-
-
-
-
-
 <!-- Banner Image -->
 <p align="center">
   <img src="https://i.ibb.co.com/BHJ6wJGj/MERN-Stack-Developer-1.png" alt="MERN Stack Developer Banner" />
@@ -38,7 +28,6 @@ Always exploring new tech to **level up projects** and deliver impactful user ex
 
 ---
 
-### 📊 **GitHub Stats**
 
 ### 📫 **Contact Me**
 
@@ -48,6 +37,8 @@ Always exploring new tech to **level up projects** and deliver impactful user ex
 - 🧑‍💻 **GitHub:** [https://github.com/Rakibul-Hasan270](https://github.com/Rakibul-Hasan270)
 
 ---
+
+### 📊 **GitHub Stats**
 
 <p align="center">
   <!-- Top Languages -->
