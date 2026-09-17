@@ -33,7 +33,7 @@ Always exploring new tech to **level up projects** and deliver impactful user ex
 
 - 📞 **Phone:** [+88 01717255891](tel:+8801717255891)  
 - ✉️ **Email:** [rakibx270@gmail.com](mailto:rakibx270@gmail.com)  
-- 🌐 **Portfolio:** [https://portfolio-64783.web.app](https://portfolio-64783.web.app)  
+- 🌐 **Portfolio:** [https://rakibulhasan-portfolio.vercel.app](https://rakibulhasan-portfolio.vercel.app)  
 - 💼 **LinkedIn:** [https://www.linkedin.com/in/rakibul-hasan01](https://www.linkedin.com/in/rakibul-hasan01)  
 
 ---
